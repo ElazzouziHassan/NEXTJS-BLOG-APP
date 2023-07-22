@@ -1,3 +1,4 @@
+"use client"
 import React from 'react'
 import Link from 'next/link'
 
@@ -22,7 +23,9 @@ function Navbar() {
             {link.title}
           </Link>
         ))}
-        
+        <button onClick={() => { console.log('user logout!') }}>
+          Logout
+        </button>
       </div>
     </div>
   )
