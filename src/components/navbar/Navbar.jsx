@@ -16,7 +16,7 @@ function Navbar() {
   return (
     <div className={styles.container}>
       <Link href="/" className={styles.logo}>
-        My Blog
+        Wizardy.
       </Link>
       <div className={styles.links}>
         {links.map((link) => (
