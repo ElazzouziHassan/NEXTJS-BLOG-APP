@@ -1,5 +1,5 @@
 export const items = {
-  applications: [
+  Applications: [
     {
       id: 1,
       title: "Creative Portfolio",
@@ -45,7 +45,7 @@ export const items = {
         "public/data/data-3.jpeg",
     }
   ],
-  websites: [
+  Websites: [
     {
       id: 1,
       title: "Creative Portfolio",
