@@ -24,17 +24,15 @@
 }
 
 .item:nth-child(1) {
-  background: url("/ui-ux.jpg");
+  background: url("/websites.jpg");
 }
 .item:nth-child(2) {
-  background: url("/db.jpg");
+  background: url("/apps.jpg");
 }
 .item:nth-child(3) {
-  background: url("/front-end.jpg");
+  background: url("/illustration.png");
 }
-.item:nth-child(4) {
-  background: url("/back-end.jpg");
-}
+
 
 .title {
   position: absolute;
